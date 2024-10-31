@@ -14,8 +14,8 @@ This particular implementation focuses on the development of an algorithm that p
 It can be deduced from the findings of the research that this model automates around 79% of credit card application approval processing, hence the model can be successfully used at the management level.
 
 # Technologies Used 
-1- Python (used for data manipulation and constructing a model) 
+1- Python
 
-2- Pandas & NumPy (data wrangling) 
+2- Pandas & NumPy
 
-3- Scikit-learn (fitting and optimizing patterns) 
+3- Scikit-learn=
