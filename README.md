@@ -3,8 +3,11 @@ This particular implementation focuses on the development of an algorithm that p
 
 # Project Workflow 
 1- Data Preprocessing: Address missing values by substituting in not applicable indicators as well as stemming and at last one hot encoding the categorical feature attributes. 
+
 2- Model Training: Sample the data stratify and scale it appropriate and equally fit the logistic regression model on the borrower's data with the target of their credit card prediction. 
+
 3- Hyperparameter Tuning: Maximize the efficiency of the SVC classifier model by searching for the optimal parameters with the GridSearchCV function. 
+
 4- Evaluation: Measure the effectiveness of the model using a confusion matrix and an accuracy metric score.
 
 # Results 
@@ -12,5 +15,7 @@ It can be deduced from the findings of the research that this model automates ar
 
 # Technologies Used 
 1- Python (used for data manipulation and constructing a model) 
+
 2- Pandas & NumPy (data wrangling) 
+
 3- Scikit-learn (fitting and optimizing patterns) 
